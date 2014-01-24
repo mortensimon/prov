@@ -20,10 +20,10 @@ in a deployment - this file is just here for compilation purposes)
 Eclipse setup
 -------------
 Git view: Import git repo  
-Git view: Import projects from git repo, import as general project  
+Git view: Import projects from git repo, import as general project    
 Package/Navigator view: Change project facets to Java 1.7  
-Package/Navigator view: Project reference to the freeacs-common and dbi project  
-Package/Navigator view: Add libs to classpath from freeacs-lib "project"
+Package/Navigator view: Project reference to the freeacs-common and dbi project    
+Package/Navigator view: Add libs to classpath from freeacs-lib "project"  
 
 Overview
 --------
