@@ -8,7 +8,7 @@ Dependencies
 https://github.com/freeacs/common.git  
 I recommend setting up this project as a Project reference
 
-https://github.com/freeacs/dbi.git
+https://github.com/freeacs/dbi.git  
 I recommend setting up this project as a Project reference
 
 https://github.com/freeacs/lib.git  
