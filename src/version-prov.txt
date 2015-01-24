@@ -1,3 +1,5 @@
+v1.4.28 (2015-01-25)
+- del: Removed FileServlet - it had to be moved back to SPP/TR069 servers (and duplicated), since authentication had to be added.
 v1.4.27 (2013-08-22)
 - ref: Handles a CURRENT_JOB which is non-existent (recently deleted)
 v1.4.26 (2013-08-14)

@@ -56,5 +56,5 @@ public class Properties {
 			maxConn = 5;
 		return maxConn;
 	}
-
+	
 }
